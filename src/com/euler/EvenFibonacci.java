@@ -25,6 +25,7 @@ public class EvenFibonacci {
 			i = j;
 			j = z;
 		}
+		//System.out.println(z);
 		System.out.println(z);
 		System.out.println(j);
 		System.out.println(sum);
